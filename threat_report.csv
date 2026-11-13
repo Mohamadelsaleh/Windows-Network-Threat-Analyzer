@@ -1,0 +1,68 @@
+IP,Process,Port,PID,ThreatScore,ThreatLevel,Country,ISP
+104.17.91.187,chrome,443,14360,0,LOW,US,"Cloudflare, Inc."
+104.18.32.47,chrome,443,14360,0,LOW,US,"Cloudflare, Inc."
+104.18.37.212,chrome,443,14360,0,LOW,US,"Cloudflare, Inc."
+104.18.40.238,chrome,443,14360,0,LOW,US,"Cloudflare, Inc."
+104.18.41.41,chrome,443,14360,0,LOW,US,"Cloudflare, Inc."
+104.18.41.41,chrome,443,14360,0,LOW,US,"Cloudflare, Inc."
+104.20.24.1,chrome,443,14360,0,LOW,US,"Cloudflare, Inc."
+104.26.8.142,chrome,443,14360,0,LOW,US,"Cloudflare, Inc."
+13.107.139.11,OneDrive,443,23308,17,LOW,US,Microsoft Corporation
+136.69.42.170,chrome,443,14360,0,LOW,US,Google LLC
+150.171.31.254,msedgewebview2,443,8720,0,LOW,US,Microsoft Corporation
+162.159.153.247,chrome,443,14360,0,LOW,US,"Cloudflare, Inc."
+172.175.38.6,msedgewebview2,443,8720,0,LOW,US,Microsoft Limited
+172.217.115.4,chrome,443,14360,0,LOW,US,Google LLC
+172.253.116.154,chrome,443,14360,0,LOW,IE,Google LLC
+172.64.144.52,chrome,443,14360,0,LOW,US,"Cloudflare, Inc."
+172.64.146.215,chrome,443,14360,0,LOW,US,"Cloudflare, Inc."
+172.64.148.235,chrome,443,14360,0,LOW,US,"Cloudflare, Inc."
+172.67.75.154,chrome,443,14360,0,LOW,US,"Cloudflare, Inc."
+199.232.25.44,chrome,443,14360,0,LOW,IE,"Fastly, Inc."
+199.232.25.91,chrome,443,14360,0,LOW,IE,"Fastly, Inc."
+199.232.25.91,chrome,443,14360,0,LOW,IE,"Fastly, Inc."
+2.18.63.210,chrome,443,14360,0,LOW,GB,Akamai Technologies
+2.18.63.215,chrome,443,14360,0,LOW,GB,Akamai Technologies
+20.83.133.193,chrome,443,14360,0,LOW,US,Microsoft Corporation
+204.79.197.222,msedgewebview2,443,8720,0,LOW,US,Microsoft Corporation
+204.79.197.254,msedgewebview2,443,8720,0,LOW,US,Microsoft Corporation
+209.85.202.100,chrome,443,14360,0,LOW,IE,Google LLC
+209.85.202.94,chrome,443,14360,0,LOW,IE,Google LLC
+209.85.202.97,chrome,443,14360,0,LOW,IE,Google LLC
+209.85.203.148,chrome,443,14360,0,LOW,IE,Google LLC
+209.85.203.94,chrome,443,14360,0,LOW,IE,Google LLC
+216.239.34.36,chrome,443,14360,0,LOW,US,Google LLC
+3.162.140.35,chrome,443,14360,0,LOW,IE,"Amazon.com, Inc."
+3.165.232.37,chrome,443,14360,0,LOW,IE,"Amazon.com, Inc."
+3.165.232.37,chrome,443,14360,0,LOW,IE,"Amazon.com, Inc."
+3.165.232.97,chrome,443,14360,0,LOW,IE,"Amazon.com, Inc."
+3.165.232.97,chrome,443,14360,0,LOW,IE,"Amazon.com, Inc."
+3.229.247.223,chrome,443,14360,0,LOW,US,Amazon Data Services Northern Virginia
+3.229.247.223,chrome,443,14360,0,LOW,US,Amazon Data Services Northern Virginia
+3.229.247.223,chrome,443,14360,0,LOW,US,Amazon Data Services Northern Virginia
+3.69.1.236,chrome,443,14360,0,LOW,DE,A100 ROW GmbH
+3.92.120.28,chrome,443,14360,0,LOW,US,Amazon Data Services Northern Virginia
+34.149.133.51,chrome,443,14360,0,LOW,US,Google LLC
+34.160.152.31,chrome,443,14360,2,LOW,US,Google LLC
+34.160.81.0,chrome,443,14360,48,MEDIUM,US,Google LLC
+34.198.52.31,chrome,443,14360,0,LOW,US,Amazon Technologies Inc.
+34.198.52.31,chrome,443,14360,0,LOW,US,Amazon Technologies Inc.
+34.198.52.31,chrome,443,14360,0,LOW,US,Amazon Technologies Inc.
+34.95.127.121,chrome,443,14360,1,LOW,US,Google LLC
+35.186.224.24,chrome,443,14360,71,MEDIUM,US,Google LLC
+35.186.249.72,chrome,443,14360,0,LOW,US,Google LLC
+35.190.125.54,chrome,443,14360,0,LOW,US,Google LLC
+35.210.130.15,chrome,443,14360,3,LOW,BE,Google LLC
+35.244.142.80,chrome,443,14360,0,LOW,US,Google LLC
+4.207.247.138,OneDrive,443,23308,0,LOW,IE,Microsoft Corporation
+4.207.247.138,svchost,443,5096,0,LOW,IE,Microsoft Corporation
+44.207.236.127,chrome,443,14360,0,LOW,US,Amazon Data Services Northern Virginia
+44.207.236.127,chrome,443,14360,0,LOW,US,Amazon Data Services Northern Virginia
+52.105.33.53,OneDrive,443,23308,0,LOW,IE,Microsoft Corporation
+52.73.45.185,chrome,443,14360,0,LOW,US,Amazon Technologies Inc.
+54.230.113.216,chrome,443,14360,0,LOW,IE,"Amazon.com, Inc."
+54.230.114.80,chrome,443,14360,0,LOW,IE,"Amazon.com, Inc."
+54.74.255.250,chrome,443,14360,0,LOW,IE,Amazon Technologies Inc.
+63.34.202.83,chrome,443,14360,0,LOW,IE,Amazon Data Services Ireland Limited
+74.125.193.188,chrome,5228,14360,0,LOW,IE,Google LLC
+74.7.69.150,msedgewebview2,443,8720,0,LOW,US,Microsoft Limited
